@@ -1,6 +1,11 @@
 ﻿{
+<<<<<<< HEAD
 	"name": "Template - SD Portrait",
 	"short_name": "Template - SD Portrait",
+=======
+	"name": "musacher",
+	"short_name": "musacher",
+>>>>>>> 285ca1eb0511549726746db9e3a3996971bfcbf6
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
