@@ -1,14 +1,9 @@
 ﻿CACHE MANIFEST
-<<<<<<< HEAD
-#1504532342
-=======
-#1502709768
->>>>>>> 285ca1eb0511549726746db9e3a3996971bfcbf6
+#1504532614
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
-<<<<<<< HEAD
 images/sprite-sheet0.png
 images/placa-sheet0.png
 images/iflauta-sheet0.png
@@ -110,40 +105,6 @@ media/violino%20(mp3cut.net).m4a
 media/violino%20(mp3cut.net).ogg
 media/tema%20da%20vitória%20(piano%20instrumental)%20(mp3cut.net).m4a
 media/tema%20da%20vitória%20(piano%20instrumental)%20(mp3cut.net).ogg
-=======
-images/iplay-sheet0.png
-images/sprite-sheet0.png
-images/placa-sheet0.png
-images/fundo-sheet0.png
-images/lamparina-sheet0.png
-images/iflauta-sheet0.png
-images/ipandeiro-sheet0.png
-images/estante-sheet0.png
-images/ibalcao-sheet0.png
-images/ichucalho-sheet0.png
-images/pc-sheet0.png
-images/iclarineta-sheet0.png
-images/iviolino-sheet0.png
-images/ipã-sheet0.png
-images/jarro-sheet0.png
-images/bebedouro-sheet0.png
-images/mfundo-sheet0.png
-images/sprite2-sheet0.png
-media/391932_danialler_rattle%20(online-audio-converter.com).m4a
-media/391932_danialler_rattle%20(online-audio-converter.com).ogg
-media/394506__henriquebotella__notaflauta.m4a
-media/394506__henriquebotella__notaflauta.ogg
-media/382310__myfox14__game-over-arcade.m4a
-media/382310__myfox14__game-over-arcade.ogg
-media/121045_thirsk_150-clarinet-loop-2%20(online-audio-converter.com).m4a
-media/121045_thirsk_150-clarinet-loop-2%20(online-audio-converter.com).ogg
-media/109981_jacksonjust_loop-pandeiro-197%20(online-audio-converter.com).m4a
-media/109981_jacksonjust_loop-pandeiro-197%20(online-audio-converter.com).ogg
-media/toquepa%20(online-audio-converter.com).m4a
-media/toquepa%20(online-audio-converter.com).ogg
-media/56076_ldk1609_violin-tremolo-e3%20(online-audio-converter.com)%20(1).m4a
-media/56076_ldk1609_violin-tremolo-e3%20(online-audio-converter.com)%20(1).ogg
->>>>>>> 285ca1eb0511549726746db9e3a3996971bfcbf6
 icon-16.png
 icon-32.png
 icon-114.png
