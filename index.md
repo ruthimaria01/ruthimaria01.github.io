@@ -16,7 +16,7 @@ Maria Ruthillena, 19.Sou um estudande de Programação de Jogos Digitais do IFRN
 #### 
 [Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 [Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
-[Jogo 3 Oficina](Jordanag.github.io/FonoKids2/)  
+[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 
 ## Artes
