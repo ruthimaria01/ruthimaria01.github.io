@@ -1,5 +1,5 @@
 --
-layout: default
+
 ---
 
 Criando minha **página**, principal.
