@@ -15,8 +15,8 @@ Criando minha **página**, principal.
 
 #### 
 ![](largada.png)  [Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
-[![](musacher.png)]  [Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
-[![](pergameport.png)]  [Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
+![](musacher.png)  [Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
+![](pergameport.png)  [Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 
 ## Artes
