@@ -1,15 +1,12 @@
---
 
----
-
-Criando minha **página**, principal.
+ **Portfólio**
 
 # Quem sou eu?
 
 **Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim.
 4 Produções**
 
-#Portfólio
+
 
 ## GAMES
 
