@@ -37,7 +37,7 @@ Criando minha **página**, principal.
 
 _ italico
 
-~~ riscado
+~~ riscado  
 
    dois espaço p/ pular linha
  3* adciona uma linha horizontal
@@ -46,4 +46,5 @@ _ italico
  1s numeros adcionam uma lista numerada
  
  * * *
-
+contato:
+[![](face.png)] [facebook](https://web.facebook.com/maria.ruthillena)  
