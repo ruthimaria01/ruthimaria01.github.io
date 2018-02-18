@@ -10,9 +10,9 @@
 
 ## GAMES
 
-![](largada.jpeg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
-![](musacher.jpeg)[Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
-![](pergamepot.jpeg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
+![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
+![](musacher.jpg)[Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
+![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 
 ## Artes
