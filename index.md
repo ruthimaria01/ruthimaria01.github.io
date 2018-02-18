@@ -6,14 +6,13 @@ Criando minha **página**, principal.
 
 # Quem sou eu?
 
-**Maria Ruthillena, 19. Estudande de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim.
+**Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim.
 4 Produções**
 
 #Portfólio
 
 ## GAMES
 
-#### 
 ![](largada.png)    [Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 ![](musacher.png)    [Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
 ![](pergamepot.png)    [Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
