@@ -27,7 +27,8 @@ CV: http://lattes.cnpq.br/4224968954565890  4 Produções**
 3. Thiago
 
 ## Projetos  
-[Projeto Mulheres de Ceará-mirim (1).pdf]
+[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
+do século XIX a início do século XX.]
 
 * * *
 
