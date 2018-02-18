@@ -14,7 +14,7 @@ Criando minha **página**, principal.
 ## GAMES
 
 #### 
-![](largada.png)    [Jogo 1 Oficina:Largada para Soltura]  (https://ruthimaria01.github.io/largada/)  
+![](largada.png)    [Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 ![](musacher.png)    [Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
 ![](pergamepot.png)    [Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
