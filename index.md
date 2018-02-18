@@ -2,7 +2,7 @@
  **Portfólio**
 
 # Quem sou eu?
-
+![](per.jpg)  
 **Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim.
 4 Produções**
 
