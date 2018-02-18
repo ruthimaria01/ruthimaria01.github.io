@@ -1,3 +1,3 @@
-# ruthimaria01.github.io
-Site para os projetos da disciplina Oficina de Criação de Jogos Digitais (2017)-IFRN-CM.  
 **POTIFÓLIO**
+Site para os projetos do curso Jogos Digitais (2015)-IFRN-CM.  
+**POTIFÓLIO**# ruthimaria01.github.io
