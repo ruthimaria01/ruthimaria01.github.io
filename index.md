@@ -22,10 +22,10 @@ DESCRIÇÃO:** O jogo que foi feito para você, e por você.
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 
-## Artes
-
+## Artes  
 **MAPA DE INFLUÊNCIA  
 [![](1.png)]
+**
 ## Apresentações
 * Aula de Multimidia
 * Aula de Motores
