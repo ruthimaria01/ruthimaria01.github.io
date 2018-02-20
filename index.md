@@ -23,7 +23,7 @@ DESCRIÇÃO:** O jogo que foi feito para você, e por você.
 
 
 ## Artes  
-**MAPA DE INFLUÊNCIA  
+MAPA DE INFLUÊNCIA:  
 [![](1.png)]
 **
 ## Apresentações
