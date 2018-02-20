@@ -10,9 +10,9 @@ CV: http://lattes.cnpq.br/4224968954565890    4 Produções**
 
 ## GAMES
 
-![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
-![](musacher.jpg)[Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
-![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
+![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura]  **DESCRIÇÃO:** Conheça o jogo que vai te divertir com os diversos desafios e de forma animada;  (https://ruthimaria01.github.io/largada/)  
+![](musacher.jpg)  **DESCRIÇÃO:** venha jogar e conhecer os sons dos instrumentos musicais de forma divertida;  [Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
+![](pergamepot.jpg)[Jogo 3 Oficina:Pergame]  **DESCRIÇÃO:** O jogo que foi feito para você, e por você.  (https://eliciaa.github.io/Pergame/)  
 
 
 ## Artes
