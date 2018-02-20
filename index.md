@@ -23,6 +23,8 @@ DESCRIÇÃO:** O jogo que foi feito para você, e por você.
 
 
 ## Artes
+
+**MAPA DE INFLUÊNCIA  
 [![](1.png)]
 ## Apresentações
 * Aula de Multimidia
@@ -38,7 +40,7 @@ DESCRIÇÃO:** O jogo que foi feito para você, e por você.
 do século XIX a início do século XX.]  
 
 **RÁDIO CULTURA E VIDA**
-(https://www.youtube.com/watch?v=ew5a4t53OMw)
+[![](RÁDIO CULTURA E VIDA.mp3)]
 
 * * *
 
