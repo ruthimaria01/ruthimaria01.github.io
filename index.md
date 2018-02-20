@@ -6,6 +6,7 @@
 **Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim.  
 CV: http://lattes.cnpq.br/4224968954565890    4 Produções**
 
+## EMPRESAS QUE JÁ ATUEI
 
 
 ## GAMES
