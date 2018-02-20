@@ -7,7 +7,7 @@
 CV: http://lattes.cnpq.br/4224968954565890    4 Produções**
 
 ## EMPRESAS QUE JÁ ATUEI
-
+![](EMPRESA2.jpg)
 
 ## GAMES
 **LARGADA PARA SOLTURA  
