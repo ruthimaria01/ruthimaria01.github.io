@@ -1,5 +1,5 @@
 
- **Portfólio**
+ #S **Portfólio**
 
 # BIO
 ![](per.jpg)  
@@ -9,15 +9,15 @@ CV: http://lattes.cnpq.br/4224968954565890    4 Produções**
 
 
 ## GAMES
-**_LARGADA PARA SOLTURA  
+**LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Conheça o jogo que vai te divertir com os diversos desafios e de forma animada;
 ![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 
-**_MUSACHER  
+**MUSACHER  
 DESCRIÇÃO:** venha jogar e conhecer os sons dos instrumentos musicais de forma divertida; 
 ![](musacher.jpg)[Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
 
-**_PERGAME  
+**PERGAME  
 DESCRIÇÃO:** O jogo que foi feito para você, e por você.  
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
