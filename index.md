@@ -34,8 +34,11 @@ DESCRIÇÃO:** O jogo que foi feito para você, e por você.
 3. Thiago
 
 ## Projetos  
-![](Projeto Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
-do século XIX a início do século XX.]
+**![](Projeto Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
+do século XIX a início do século XX.]  
+
+**RÁDIO CULTURA E VIDA**
+(https://www.youtube.com/watch?v=ew5a4t53OMw)
 
 * * *
 
