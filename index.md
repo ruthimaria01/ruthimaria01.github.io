@@ -8,7 +8,7 @@ CV: http://lattes.cnpq.br/4224968954565890    4 Produções**
 
 ## EMPRESAS QUE JÁ ATUEI
 ![](EMPRESA2.jpg)  
-![](lala.png)lala.png
+![](lala.png)
 ## GAMES
 **LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Conheça o jogo que vai te divertir com os diversos desafios e de forma animada;
