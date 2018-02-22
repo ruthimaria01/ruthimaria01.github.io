@@ -27,7 +27,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 ![](image.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
 ## Artes  
-**MAPA DE INFLUÊNCIA:  **
+**MAPA DE INFLUÊNCIA:**  
 ![](1.png)
 
 **ARTES EM PIXEL 16x16**  
