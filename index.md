@@ -49,8 +49,13 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf)nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 
 ## Projetos  
+**REALIZADOS:
 **![](Projeto Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
 do século XIX a início do século XX.]  
+
+**EM EXECUÇÃO:**
+Empreendedorismo S2S: Gameficação de alunos para alunos.  	
+ Este projeto pode ser definido como a primeira etapa de um projeto maior para estimular o interesse pelo tema Empreendedorismo, por meio de jogos, entre alunos do nono ano das escolas públicas de Ceará-Mirim. Nesta etapa, os alunos do terceiro ano do curso técnico integrado em jogos digitais do IFRN/Ceará-Mirim, alunos da disciplina Empreendedorismo, desenvolverão conceitos de jogos educativos com o intuito de apresentar, no futuro, de forma lúdica e introdutória, o tema Empreendedorismo. O resultado deste trabalho será a construção de documentos de Game Design a partir do levantamento de dados das escolas.
 
 **RÁDIO CULTURA E VIDA**
 [![](RÁDIO CULTURA E VIDA.mp3)]
