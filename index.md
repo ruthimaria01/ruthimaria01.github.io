@@ -27,7 +27,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 ## Artes  
-MAPA DE INFLUÊNCIA:  
+**MAPA DE INFLUÊNCIA:  **
 ![](1.png)
 
 **ARTES EM PIXEL 16x16  **  
