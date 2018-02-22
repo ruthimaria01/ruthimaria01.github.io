@@ -33,7 +33,7 @@ MAPA DE INFLUÊNCIA:
 **ARTES EM PIXEL 16x16  **  
 [![](malandro.png)] Personagem masculino.  
   
-[![](pred.png)] Edifícil.
+![](pred.png) Edifícil.
   
 [![](ar.png)] Arma cinza.  
   
