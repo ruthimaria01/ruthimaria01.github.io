@@ -27,6 +27,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 MAPA DE INFLUÊNCIA:  
 [![](1.png)]
 
+**
 **Artes em pixel 16x16:  
 [![](malandro.png)] Personagem masculino.  
 [![](pred.png)] Edifícil.    
