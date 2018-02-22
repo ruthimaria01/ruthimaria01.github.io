@@ -29,11 +29,11 @@ MAPA DE INFLUÊNCIA:
 
 **Artes em pixel 16x16:
 [![](malandro.png)] Personagem masculino.  
-[![](pred.png)] Edifícil.  
-[![](ar.png)] Arma cinza.  
-[![](arm.png)] Arma preta.  
-[![](mort.png)] Pessoa Morta.  
-[![](dete.png)] Detetive.  
+[![](pred.png)] Edifícil.    
+[![](ar.png)] Arma cinza.    
+[![](arm.png)] Arma preta.    
+[![](mort.png)] Pessoa Morta.    
+[![](dete.png)] Detetive.    
 **
 ## Apresentações
 O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf)nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
