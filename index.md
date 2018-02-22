@@ -30,7 +30,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 **MAPA DE INFLUÊNCIA:  **
 ![](1.png)
 
-**ARTES EM PIXEL 16x16  **  
+**ARTES EM PIXEL 16x16**  
 ![](malandro.png) Personagem masculino.  
   
 ![](pred.png) Edifícil.
