@@ -28,7 +28,7 @@ MAPA DE INFLUÊNCIA:
 [![](1.png)]
 
 **Artes em pixel 16x16:
-[![](malandro.jpg)]
+[![](malandro.png)]
 **
 ## Apresentações
 O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf)nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
