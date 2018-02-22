@@ -33,7 +33,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 **ARTES EM PIXEL 16x16**  
 ![](malandro.png) Personagem masculino.  
   
-![](pred.png) Edifícil.
+![](pred.png) Edifício.
   
 ![](ar.png) Arma cinza.  
   
