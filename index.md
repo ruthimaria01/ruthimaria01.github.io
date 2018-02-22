@@ -22,6 +22,9 @@ DESCRIÇÃO:**  Um game investigativo para testar sua capacidade de observação
 DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar seu conhecimento sobre o mundo dos jogos eletrônicos.   
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
+**IMUNO DEFENSE  
+DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar seu conhecimento sobre o mundo dos jogos eletrônicos.   
+![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 ## Artes  
 MAPA DE INFLUÊNCIA:  
@@ -29,7 +32,10 @@ MAPA DE INFLUÊNCIA:
 
 **ARTES EM PIXEL 16x16  **  
 [![](malandro.png)] Personagem masculino.  
+  
 [![](pred.png)] Edifícil.    
+
+
 [![](ar.png)] Arma cinza.    
 [![](arm.png)] Arma preta.    
 [![](mort.png)] Pessoa Morta.    
