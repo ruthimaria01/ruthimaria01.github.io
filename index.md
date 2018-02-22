@@ -28,20 +28,20 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 
 ## Artes  
 MAPA DE INFLUÊNCIA:  
-[![](1.png)]
+![](1.png)
 
 **ARTES EM PIXEL 16x16  **  
-[![](malandro.png)] Personagem masculino.  
+![](malandro.png) Personagem masculino.  
   
 ![](pred.png) Edifícil.
   
-[![](ar.png)] Arma cinza.  
+![](ar.png) Arma cinza.  
   
-[![](arm.png)] Arma preta.  
+![](arm.png) Arma preta.  
   
-[![](mort.png)] Pessoa Morta. 
+![](mort.png) Pessoa Morta. 
   
-[![](dete.png)] Detetive.    
+![](dete.png) Detetive.    
   
 **
 ## Apresentações
