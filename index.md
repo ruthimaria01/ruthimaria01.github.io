@@ -24,7 +24,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 
 **IMUNO DEFENSE  
 DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar seu conhecimento sobre o mundo dos jogos eletrônicos.   
-![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
+![](image.jpg)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/  
 
 ## Artes  
 **MAPA DE INFLUÊNCIA:  **
