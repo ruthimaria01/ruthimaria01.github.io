@@ -78,6 +78,8 @@ Empreendedorismo S2S: Gameficação de alunos para alunos.
 [Cumprimir e esticar](es.pdf)  
 [Artes 2D e 3D](es1.pdf)  
 [trabalho de matemática-(cos a+b)](s2.pdf) 
+[Desnaturalizando a área de lazer](la.pdf)  
+
 
 * * *
 
