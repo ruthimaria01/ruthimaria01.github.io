@@ -27,8 +27,10 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! Imuno Defense: jogue um eletrizante Tower Defense controlando o sistema de defesa do seu organismo no combate aos vírus e infecções.   
 ![](imuno.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
-## Artes  
-![](rosa.png)
+## Artes    
+![](rosa.png)  
+**MOCKUP**
+![](moc.png)  [trabalho de Oficina: Mockup](https://eliciaa.github.io/Pergame/)  
 **MAPA DE INFLUÊNCIA:**  
 ![](1.png)
 
