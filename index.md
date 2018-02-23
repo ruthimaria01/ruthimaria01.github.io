@@ -77,8 +77,10 @@ Empreendedorismo S2S: Gameficação de alunos para alunos.
 [Game Design- gdd](gdd.pdf) 
 [Cumprimir e esticar](es.pdf)  
 [Artes 2D e 3D](es1.pdf)  
-[trabalho de matemática-(cos a+b)](s2.pdf) 
+[trabalho de matemática-(cos a+b)](s2.pdf)   
 [Desnaturalizando a área de lazer](la.pdf)  
+[A menina de lá-Guimarães Rosa](menina.pdf)  
+
 
 
 * * *
