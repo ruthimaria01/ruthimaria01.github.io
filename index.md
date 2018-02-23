@@ -72,7 +72,8 @@ Empreendedorismo S2S: Gameficação de alunos para alunos.
  Este projeto pode ser definido como a primeira etapa de um projeto maior para estimular o interesse pelo tema Empreendedorismo, por meio de jogos, entre alunos do nono ano das escolas públicas de Ceará-Mirim. Nesta etapa, os alunos do terceiro ano do curso técnico integrado em jogos digitais do IFRN/Ceará-Mirim, alunos da disciplina Empreendedorismo, desenvolverão conceitos de jogos educativos com o intuito de apresentar, no futuro, de forma lúdica e introdutória, o tema Empreendedorismo. O resultado deste trabalho será a construção de documentos de Game Design a partir do levantamento de dados das escolas.
   
 ## Apresentações  
-![](t2.pdf) 
+
+[Pro](t2.pdf) 
 
 * * *
 
