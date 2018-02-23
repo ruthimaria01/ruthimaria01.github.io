@@ -55,6 +55,7 @@ DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! I
 ![](a2.gif) 
 ![](a3.gif) 
 ![](a5.gif) 
+![](a6.gif) 
 ## Apresentações
 O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf)nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 
