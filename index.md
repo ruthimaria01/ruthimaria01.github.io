@@ -23,7 +23,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 **IMUNO DEFENSE  
-DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar seu conhecimento sobre o mundo dos jogos eletrônicos.   
+DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! Imuno Defense: jogue um eletrizante Tower Defense controlando o sistema de defesa do seu organismo no combate aos vírus e infecções.   
 ![](image.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
 ## Artes  
@@ -49,13 +49,13 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf)nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 
 ## Projetos  
-**REALIZADOS:
+**REALIZADOS:  
 **![](Projeto Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
 do século XIX a início do século XX.]  
 
 RÁDIO CULTURA E VIDA
  Este trabalho foi exclusivo de sala de aula com o objeito de fortificar a cultura da cidade de Ceará-Mirim.
-**EM EXECUÇÃO:**
+**EM EXECUÇÃO:**  
 Empreendedorismo S2S: Gameficação de alunos para alunos.  	
  Este projeto pode ser definido como a primeira etapa de um projeto maior para estimular o interesse pelo tema Empreendedorismo, por meio de jogos, entre alunos do nono ano das escolas públicas de Ceará-Mirim. Nesta etapa, os alunos do terceiro ano do curso técnico integrado em jogos digitais do IFRN/Ceará-Mirim, alunos da disciplina Empreendedorismo, desenvolverão conceitos de jogos educativos com o intuito de apresentar, no futuro, de forma lúdica e introdutória, o tema Empreendedorismo. O resultado deste trabalho será a construção de documentos de Game Design a partir do levantamento de dados das escolas.
 
