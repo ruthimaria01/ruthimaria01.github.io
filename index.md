@@ -27,6 +27,7 @@ DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! I
 ![](image.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
 ## Artes  
+![](rosa.png)
 **MAPA DE INFLUÊNCIA:**  
 ![](1.png)
 
