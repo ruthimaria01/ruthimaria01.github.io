@@ -8,7 +8,8 @@ CV: http://lattes.cnpq.br/4224968954565890
 
 ## EMPRESAS QUE JÁ ATUEI
 ![](EMPRESA2.jpg)  
-![](lala.png)
+![](Elice.png)
+![](alfajoft.png)
 ## GAMES
 **LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
@@ -24,7 +25,7 @@ DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar s
 
 **IMUNO DEFENSE  
 DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! Imuno Defense: jogue um eletrizante Tower Defense controlando o sistema de defesa do seu organismo no combate aos vírus e infecções.   
-![](image.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
+![](imuno.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
 ## Artes  
 ![](rosa.png)
