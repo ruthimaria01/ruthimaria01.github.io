@@ -13,7 +13,8 @@ CV: http://lattes.cnpq.br/4224968954565890
 ## GAMES
 **LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
-![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
+![](largada.jpg)(https://ruthimaria01.github.io/largada/)
+[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 
 **MUSACHER  
 DESCRIÇÃO:**  Um game investigativo para testar sua capacidade de observação e ao mesmo tempo lhe revelar os sons de diversos instrumentos musicais.  
