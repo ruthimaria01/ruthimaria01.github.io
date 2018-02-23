@@ -7,7 +7,7 @@
 CV: http://lattes.cnpq.br/4224968954565890    
 
 ## EMPRESAS QUE JÁ ATUEI
-![](EMPRESA2.jpg)  
+![](EMPRESA2.jpg)
 ![](Elice.png)
 ![](alfajoft.png)
 ## GAMES
