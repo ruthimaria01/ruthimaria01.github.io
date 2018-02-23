@@ -3,7 +3,7 @@
 
 # BIO
 ![](per.jpg)  
-**Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim.  
+**Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim. A plataforma utilizada para a produção dos jogos é o Construct2  
 CV: http://lattes.cnpq.br/4224968954565890    
 
 ## EMPRESAS QUE JÁ ATUEI
