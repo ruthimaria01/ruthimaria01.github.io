@@ -4,7 +4,7 @@
 # BIO
 ![](per.jpg)  
 **Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim. A plataforma utilizada para a produção dos jogos é o Construct2  
-CV: http://lattes.cnpq.br/4224968954565890    
+CV: (http://lattes.cnpq.br/4224968954565890)   
 
 ## EMPRESAS QUE JÁ ATUEI
 ![](EMPRESA2.jpg)
@@ -57,7 +57,7 @@ DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! I
 ![](a5.gif) 
 ![](a6.gif) 
 ## Apresentações
-O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf)nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
+O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf) nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 
 ## Projetos  
 **REALIZADOS:  
