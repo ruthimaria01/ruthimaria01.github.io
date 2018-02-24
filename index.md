@@ -14,17 +14,18 @@ CV: http://lattes.cnpq.br/4224968954565890
 >>**LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
 >Faixa étária: recomendado para crianças a partir de 6 anos de idade;  
-
 ![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 
 >>**MUSACHER  
-DESCRIÇÃO:**  Um game investigativo para testar sua capacidade de observação e ao mesmo tempo lhe revelar os sons de diversos instrumentos musicais.  
+DESCRIÇÃO:** Um game investigativo para testar sua capacidade de observação e ao mesmo tempo lhe revelar os sons de diversos instrumentos musicais.  
 >Faixa étária: recomendado para crianças a partir de 10 anos de idade;  
 ![](musacher.jpg)[Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
 
 >>**PERGAME  
 DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar seu conhecimento sobre o mundo dos jogos eletrônicos.  
 >Faixa étária: recomendado para crianças a partir de 11 anos de idade;  
+>Requerimentos do jogo:
+  >>Sistema operacional: 
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
 >>**IMUNO DEFENSE  
