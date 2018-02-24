@@ -110,7 +110,7 @@ Empreendedorismo S2S: Gameficação de alunos para alunos.
 ## APRESENTAÇÕES DE PROJETOS
   O projeto Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX Mulheres de Ceará-mirim foi apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN ![]() (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf) nos quais alcançou a etapa final ![]()(http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 ## APRESENTAÇÕES DE SLIDES: 
-**Conteúdo para Download:**
+**Conteúdo para Download:**  
 [Poluição da água e do solo](t2.pdf)   
 [Game Design- gdd](gdd.pdf)  
 [Cumprimir e esticar](es.pdf)  
