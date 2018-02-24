@@ -96,8 +96,8 @@ DESCRIÇÃO: Animação do guerreiro atacando com a espada.
 
 
 ## PROJETOS  
-**REALIZADOS:  
-**![](Projeto Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
+**REALIZADOS:**  
+![](Projeto Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados
 do século XIX a início do século XX.]  
 
 RÁDIO CULTURA E VIDA
