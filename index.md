@@ -54,7 +54,7 @@ DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense:
 DESCRIÇÃO: Personagem de animações.
 ![](rosa.png)  
 DESCRIÇÃO: ilustração que remete ao filme Avata
-![](av.png) 
+![](av.png)  
 **MOCKUP:**  
 ![](moc.png)  [Trabalho de Oficina: Mockup](https://eliciaa.github.io/mockup/)  
 
