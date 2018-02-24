@@ -54,7 +54,7 @@ DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense:
 ![](rosa.png)  
 ![](av.png) 
 **MOCKUP:**  
-![](moc.png)  [trabalho de Oficina: Mockup](https://eliciaa.github.io/Pergame/)  
+![](moc.png)  [trabalho de Oficina: Mockup](https://eliciaa.github.io/mockup/)  
 
 **MAPA DE INFLUÊNCIA:**  
 ![](1.png)
