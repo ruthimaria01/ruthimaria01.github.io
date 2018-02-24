@@ -77,12 +77,21 @@ DESCRIÇÃO: ilustração que remete ao filme Avata
 ![](AU.png) Cachorro.  
 
 ![](car.png) Cartola.
-**  
+ 
 ## ANIMAÇÕES 
+DESCRIÇÃO: Animação de robô abaixando-se para tocar o chão com a mão direita.    
 ![](a2.gif) 
-![](a3.gif) 
+
+DESCRIÇÃO: Animação de robô andando.  
+![](a3.gif)  
+
+DESCRIÇÃO: Animação de robô pulando
 ![](a5.gif) 
-![](a6.gif) 
+
+DESCRIÇÃO: Animação do lenhador manuseando uma tora de madeira.
+![](a6.gif)  
+
+DESCRIÇÃO: Animação do guerreiro atacando com a espada.
 ![](ag.gif) 
 
 
