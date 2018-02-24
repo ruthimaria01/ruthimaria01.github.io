@@ -1,9 +1,9 @@
 
-                                        # PORTFÓLIO:
+                                     # PORTFÓLIO:
 
 # BIO
 ![](per.jpg)  
-**Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim. A plataforma utilizada para a produção dos jogos é o Construct2    
+Maria Ruthillena, 19. Estudante de Programação de Jogos Digitais do IFRN- campus Ceará-Mirim. A plataforma utilizada para a produção dos jogos é o Construct2    
 CV: http://lattes.cnpq.br/4224968954565890   
 
 ## EMPRESAS QUE JÁ ATUEI
@@ -11,23 +11,23 @@ CV: http://lattes.cnpq.br/4224968954565890
 ![](Elice.png)
 ![](alfajoft.png)
 ## GAMES
-**LARGADA PARA SOLTURA  
+>>**LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
 ![](largada.jpg)[Jogo 1 Oficina:Largada para Soltura](https://ruthimaria01.github.io/largada/)  
 
-**MUSACHER  
+>>**MUSACHER  
 DESCRIÇÃO:**  Um game investigativo para testar sua capacidade de observação e ao mesmo tempo lhe revelar os sons de diversos instrumentos musicais.  
 ![](musacher.jpg)[Jogo 2 Oficina:Musacher](https://ruthimaria01.github.io/musacher/)  
 
-**PERGAME  
+>>**PERGAME  
 DESCRIÇÃO:** Um quiz indispensável para todo gamer de verdade! Venha testar seu conhecimento sobre o mundo dos jogos eletrônicos.   
 ![](pergamepot.jpg)[Jogo 3 Oficina:Pergame](https://eliciaa.github.io/Pergame/)  
 
-**IMUNO DEFENSE  
-DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! Imuno Defense: jogue um eletrizante Tower Defense controlando o sistema de defesa do seu organismo no combate aos vírus e infecções.   
+>>**IMUNO DEFENSE  
+DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense: jogue um eletrizante Tower Defense controlando o sistema de defesa do seu organismo no combate aos vírus e infecções.   
 ![](imuno.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
-## Artes    
+## ARTES    
 ![](rosa.png)  
 ![](av.png) 
 **MOCKUP:**  
@@ -51,14 +51,14 @@ DESCRIÇÃO:** Descrição: Divirta-se na batalha pela defesa do corpo humano! I
   
 ![](AU.png) Cachorro.  
 **  
-## Animações  
+## ANIMAÇÕES 
 ![](a2.gif) 
 ![](a3.gif) 
 ![](a5.gif) 
 ![](a6.gif) 
 ![](ag.gif) 
 ## Apresentações
-O projeto foi  Mulheres de Ceará-mirim (1).pdf)[Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX. apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf) nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
+  O projeto Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX Mulheres de Ceará-mirim foi apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf) nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 
 ## Projetos  
 **REALIZADOS:  
