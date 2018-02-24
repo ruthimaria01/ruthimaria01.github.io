@@ -13,7 +13,7 @@ CV: http://lattes.cnpq.br/4224968954565890
 ## GAMES
 >>**LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
->Faixa étária: recomendado para crianças a partir de 6 anos de idade;  
+>Faixa étária: recomendado para crianças a partir de 6 anos de idade;    
 >Requerimentos do jogo:  
   >>Recomendo utilizar sistema operacional: Windows XP ou mais novo (para dispositivos desktop);  
   >>Conexão com a internet;  
@@ -73,6 +73,8 @@ DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense:
 ![](dete.png) Detetive.    
   
 ![](AU.png) Cachorro.  
+
+![](car.png) Cartola.
 **  
 ## ANIMAÇÕES 
 ![](a2.gif) 
