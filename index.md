@@ -51,7 +51,9 @@ DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense:
 ![](imuno.png)[Jogo 4 projeto integrador:Imuno-defense](https://eliciaa.github.io/imuno/)  
 
 ## ARTES    
+DESCRIÇÃO: Personagem de animações.
 ![](rosa.png)  
+DESCRIÇÃO: ilustração que remete ao filme Avata
 ![](av.png) 
 **MOCKUP:**  
 ![](moc.png)  [Trabalho de Oficina: Mockup](https://eliciaa.github.io/mockup/)  
