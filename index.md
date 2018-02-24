@@ -54,7 +54,7 @@ DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense:
 ![](rosa.png)  
 ![](av.png) 
 **MOCKUP:**  
-![](moc.png)  [trabalho de Oficina: Mockup](https://eliciaa.github.io/mockup/)  
+![](moc.png)  [Trabalho de Oficina: Mockup](https://eliciaa.github.io/mockup/)  
 
 **MAPA DE INFLUÊNCIA:**  
 ![](1.png)
@@ -83,7 +83,7 @@ DESCRIÇÃO:** Divirta-se na batalha pela defesa do corpo humano! Imuno Defense:
 ![](a6.gif) 
 ![](ag.gif) 
 ## Apresentações
-  O projeto Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX Mulheres de Ceará-mirim foi apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf) nos quais alcançou a etapa final (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
+  O projeto Mulheres de Ceará-Mirim: crítica literária ao acervo produzido por mulheres durante meados do século XIX a início do século XX Mulheres de Ceará-mirim foi apresentado na I Semana de Ciência, Tecnologia e Extensão do IFRN,III Mostra Tecnológica do IFRN ![]() (http://eventos.ifrn.edu.br/secitexsc2015/arquivos/horarios-mostra.pdf) nos quais alcançou a etapa final ![]()(http://eventos.ifrn.edu.br/secitexsc2015/arquivos/lista-aprovados-iii-mostra-tecnologica.pdf) e na MocitecZN 2015.
 
 ## PROJETOS  
 **REALIZADOS:  
@@ -98,7 +98,7 @@ Empreendedorismo S2S: Gameficação de alunos para alunos.
  Este projeto pode ser definido como a primeira etapa de um projeto maior para estimular o interesse pelo tema Empreendedorismo, por meio de jogos, entre alunos do nono ano das escolas públicas de Ceará-Mirim. Nesta etapa, os alunos do terceiro ano do curso técnico integrado em jogos digitais do IFRN/Ceará-Mirim, alunos da disciplina Empreendedorismo, desenvolverão conceitos de jogos educativos com o intuito de apresentar, no futuro, de forma lúdica e introdutória, o tema Empreendedorismo. O resultado deste trabalho será a construção de documentos de Game Design a partir do levantamento de dados das escolas.
   
 ## Apresentações  
-**conteúdo para Download:**
+**Conteúdo para Download:**
 [Poluição da água e do solo](t2.pdf)   
 [Game Design- gdd](gdd.pdf)  
 [Cumprimir e esticar](es.pdf)  
