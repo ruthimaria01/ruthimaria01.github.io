@@ -11,15 +11,8 @@ CV: http://lattes.cnpq.br/4224968954565890
 ![](Elice.png)
 ![](alfajoft.png)
 ## GAMES
->>**AMBIENTAL CONQUEST  
-DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
->Faixa étária: recomendado para crianças a partir de 6 anos de idade;    
->Requerimentos do jogo:  
-  >>Recomendo utilizar sistema operacional: smartphone, Windows XP ou mais novo (para dispositivos desktop);  
-  >>Conexão com a internet;  
-  >>Mouse e Teclado;  
-  >>Caixas de som;  
-![](LOGO.PNG)[Jogo semana do meio ambiente:AMBIENTAL CONQUEST](https://ruthimaria01.github.io/AC/)  
+
+  
 >>**LARGADA PARA SOLTURA  
 DESCRIÇÃO:** Uma aventura estilo arcade com diversos elementos sobre a luta contra a escravidão.  
 >Faixa étária: recomendado para crianças a partir de 6 anos de idade;    
